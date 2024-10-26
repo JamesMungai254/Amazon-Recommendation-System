@@ -2,6 +2,10 @@
 
 This repository contains a model for Amazon product recommendations. It includes a Streamlit application (`amazon.py`) that predicts user preferences based on ratings, product IDs, and user IDs.
 
+## Dataset
+
+The dataset used for training the model can be found on Kaggle: [Amazon Product Reviews](https://www.kaggle.com/saurav9786/amazon-product-reviews).
+
 ## Features
 
 - **Model**: Provides recommendations for Amazon products.
